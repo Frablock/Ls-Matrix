@@ -1,5 +1,5 @@
 # Ls_Matrix
-A cool way to display all of your file.
+A cool way to display all of your files.
 Probably not the easiest, but still a cool way.
 
 Thanks to : 
